@@ -1,8 +1,8 @@
-CREATE DATABASE code_challenge_db;
+CREATE DATABASE coding_challenge_db;
 
-USE code_challenge_db;
+USE coding_challenge_db;
 
-CREATE TABLE code_challenge
+CREATE TABLE coding_challenge
 (
   id int NOT NULL AUTO_INCREMENT,
   first_name varchar(500) NOT NULL,
